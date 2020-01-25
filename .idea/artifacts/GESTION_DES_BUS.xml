@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GESTION_DES_BUS">
+    <output-path>$PROJECT_DIR$/out/artifacts/GESTION_DES_BUS</output-path>
+    <root id="archive" name="GESTION_DES_BUS.war" />
+  </artifact>
+</component>
